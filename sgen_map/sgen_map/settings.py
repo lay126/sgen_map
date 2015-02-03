@@ -88,7 +88,7 @@ STATICFILES_DIRS = (
     # ('img', '/Users/ayoung/GitHub/sgen_map/sgen_map/sgen_m/templates/img'),
     # ('html', '/Users/ayoung/GitHub/sgen_map/sgen_map/sgen_m/templates'),
     # server
-    ('img', '/sgen_map_note/sgen_map/sgen_map/sgen_m/templates/img'),
-    ('html', '/sgen_map_note/sgen_map/sgen_map/sgen_m/templates'),
+    ('img', '/sgen_map/sgen_map/sgen_map/sgen_m/templates/img'),
+    ('html', '/sgen_map/sgen_map/sgen_map/sgen_m/templates'),
 )
 
